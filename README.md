@@ -32,6 +32,11 @@ My default prefix is "!", you can change it on the config.json
 
  - https://discordapp.com/developers/applications
 
+## On package-lock.json
 
+-Install minimist
+
+
+## I will try to upgrade this bot to a better bot <3
 #### Hope you like this discord bot for typescript
 ## GonzaloSS
