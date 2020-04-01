@@ -1,0 +1,23 @@
+{
+  "name": "discordbot-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/bot.js",
+    "dev": "nodemon -e ts --exec \"npm run build && npm start\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {
+    "@types/node": "^13.7.4",
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.2",
+    "typescript": "^3.8.2"
+  }
+}
