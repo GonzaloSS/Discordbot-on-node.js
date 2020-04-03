@@ -2,7 +2,7 @@
 
     This node.js is a typescript bot, with this bot you can send text to your discord server.
 
-## How works
+## How it works
 
 This discord bot use a token to use this bot on the node.js. then we can configure the bot easily.
 
