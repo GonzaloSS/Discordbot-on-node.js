@@ -38,5 +38,5 @@ My default prefix is "!", you can change it on the config.json
 
 
 ## I will try to upgrade this bot to a better bot <3
-#### Hope you like this discord bot for typescript
+#### Hope you like this discord bot in typescript
 ## GonzaloSS
